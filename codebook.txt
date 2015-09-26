@@ -8,8 +8,12 @@ These are the variables of Tidydata
 6 LAYING
                                                   
 
-[2] "subject"  # The subjects are indicated by numbers, from 1 to 30.                                             
+[2] "subject"  # The subjects are identified by numbers, from 1 to 30.                                             
 Then there are the following measurements whose average are given:
+
+-Accelerometer's units are standard gravity units 'g'
+-Gyroscope's units are radians/second
+
  [3] "time_Body_Accelerometer_Mean()-X"                         
  [4] "time_Body_Accelerometer_Mean()-Y"                         
  [5] "time_Body_Accelerometer_Mean()-Z"                         
